@@ -1,0 +1,8 @@
+../Core/libraries/24LCxx/24LCxx.c:9:6:EEPROM_init	1
+../Core/libraries/24LCxx/24LCxx.c:17:10:EEPROM_Length	1
+../Core/libraries/24LCxx/24LCxx.c:21:9:i2c_write_bytes	2
+../Core/libraries/24LCxx/24LCxx.c:28:9:EEPROM_write_byte	1
+../Core/libraries/24LCxx/24LCxx.c:32:9:EEPROM_write_bytes	1
+../Core/libraries/24LCxx/24LCxx.c:36:9:i2c_read_bytes	2
+../Core/libraries/24LCxx/24LCxx.c:43:9:EEPROM_read_byte	1
+../Core/libraries/24LCxx/24LCxx.c:47:9:EEPROM_read_bytes	1

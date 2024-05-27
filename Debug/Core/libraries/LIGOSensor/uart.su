@@ -1,0 +1,8 @@
+../Core/libraries/LIGOSensor/uart.c:12:6:receive_rx	16	static
+../Core/libraries/LIGOSensor/uart.c:17:10:uart_available	8	static
+../Core/libraries/LIGOSensor/uart.c:22:9:uart_read	16	static
+../Core/libraries/LIGOSensor/uart.c:29:6:uart_init	8	static
+../Core/libraries/LIGOSensor/uart.c:34:9:CRC8	24	static
+../Core/libraries/LIGOSensor/uart.c:49:9:data_txCommand_Checksum	24	static
+../Core/libraries/LIGOSensor/uart.c:59:6:Command_Format	24	static
+../Core/libraries/LIGOSensor/uart.c:71:6:Process_Received_Data	16	static
